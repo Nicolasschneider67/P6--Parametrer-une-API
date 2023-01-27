@@ -21,3 +21,6 @@ Compétences évaluées :
 * Stocker des données de manière sécurisée
 
 * Mettre en œuvre des opérations CRUD de manière sécurisée
+
+
+REMARQUES : Il se peut que la base de données se désactive en raison d'une inactivité trop longue de ma part. N'hésitez pas à me contacter si vous n'arrivez pas à vous y connecter
